@@ -22,7 +22,7 @@ Windows 11'deki **Akıllı Uygulama Denetimi** imzasız uygulamaları sessizce e
 
 Kontrol: **Ayarlar → Gizlilik ve güvenlik → Windows Güvenliği → Uygulama ve tarayıcı denetimi → Akıllı Uygulama Denetimi ayarları**. "Açık" ise **Kapalı** yapın, sonra uygulamayı tekrar açın.
 
-> Not: Bu ayar kapatıldıktan sonra bazı Windows sürümlerinde yeniden açmak için Windows'u sıfırlamak gerekebilir. Uygulamayı ileride imzalayıp bu adımı gereksiz hale getirmeyi planlıyoruz.
+> Not: Ayarı kapattıktan sonra bilgisayarı yeniden başlatmanız gerekir.
 
 Ayar "Kapalı" ise ve uygulama yine açılmıyorsa aşağıdaki [Sorun mu var?](#sorun-mu-var) bölümündeki adımları izleyin.
 
