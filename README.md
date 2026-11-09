@@ -11,9 +11,20 @@ Yayıncılar için canlı Türkçe altyazı. Oyundaki, videodaki ya da sohbettek
 1. İndirdiğin `SercanZurna-SS-Setup-...exe` dosyasını çalıştır.
 2. Windows **"Windows bilgisayarınızı korudu"** derse: **"Ek bilgi"** → **"Yine de çalıştır"**.
    Uygulama henüz dijital imzalı olmadığı için bu uyarı çıkar; virüs değildir.
+   Kurulum bitti ama uygulama hiç açılmıyorsa aşağıdaki [Kuruldu ama açılmıyor](#kuruldu-ama-açılmıyor-hiç-hata-vermiyor) bölümüne bak.
 3. Sihirbazı izle (müziği sol alttaki **♪ Müzik** düğmesiyle kapatabilirsin).
 4. Yönetici izni gerekmez. Uygulama `%LocalAppData%\Programs\SercanZurna-SS` içine kurulur; Başlat menüsünden ve (seçersen) masaüstünden açılır.
 5. Kaldırmak için: Ayarlar → Uygulamalar → SercanZurna - SS → Kaldır.
+
+### Kuruldu ama açılmıyor (hiç hata vermiyor)
+
+Windows 11'deki **Akıllı Uygulama Denetimi** imzasız uygulamaları sessizce engelliyor. Bu uygulama henüz dijital imzalı olmadığı için açılmayabilir.
+
+Kontrol: **Ayarlar → Gizlilik ve güvenlik → Windows Güvenliği → Uygulama ve tarayıcı denetimi → Akıllı Uygulama Denetimi ayarları**. "Açık" ise **Kapalı** yapın, sonra uygulamayı tekrar açın.
+
+> Not: Bu ayar kapatıldıktan sonra bazı Windows sürümlerinde yeniden açmak için Windows'u sıfırlamak gerekebilir. Uygulamayı ileride imzalayıp bu adımı gereksiz hale getirmeyi planlıyoruz.
+
+Ayar "Kapalı" ise ve uygulama yine açılmıyorsa aşağıdaki [Sorun mu var?](#sorun-mu-var) bölümündeki adımları izleyin.
 
 ## İlk açılış
 
